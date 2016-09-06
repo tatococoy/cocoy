@@ -27,7 +27,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<thumbnail>http://sincelejo-sucre.gov.co/apc-aa-files/35353261383035623531623338336266/LOGO.jpg</thumbnail>
 <fanart>http://i.imgur.com/nfhwnl8.jpg</fanart>
 </item>
 
@@ -36,8 +36,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lightyellow]Esto es gratis pero Si Deseas Apoyarme o Agradecer, puedes hacer una donacion al [COLOR lightslategray]PayPal[/COLOR] [COLOR lightblue]adrian.bu@gmail.com[/COLOR] para una cafe o una cerveza!!! ==== if you like my list u can support me with a donation to [COLOR white]paypal adrian.bu@gmail.com[/COLOR] for a coffee or a beer ..===== [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail>http://sincelejo-sucre.gov.co/apc-aa-files/35353261383035623531623338336266/LOGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/nfhwnl8.jpg</fanart>
 </item>
 
 <item>
@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
-</regex><thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</regex><thumbnail>http://sincelejo-sucre.gov.co/apc-aa-files/35353261383035623531623338336266/LOGO.jpg</thumbnail><fanart>http://i.imgur.com/nfhwnl8.jpg</fanart>
 </item>
 
 
@@ -81,7 +81,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray](Sports) [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail>http://sincelejo-sucre.gov.co/apc-aa-files/35353261383035623531623338336266/LOGO.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 
